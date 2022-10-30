@@ -1,0 +1,10 @@
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\kolko_i_krzyzyk.exe.config
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\kolko_i_krzyzyk.exe
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\bin\Debug\kolko_i_krzyzyk.pdb
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.csproj.AssemblyReference.cache
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.Form1.resources
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.Properties.Resources.resources
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.csproj.GenerateResource.cache
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.exe
+C:\Users\Natalia\source\repos\kolko_i_krzyzyk\kolko_i_krzyzyk\obj\Debug\kolko_i_krzyzyk.pdb
